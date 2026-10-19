@@ -50,7 +50,7 @@
     "h2c": "— y",
     "h2d": "venden más",
     "saveTitle": "Las empresas ahorran",
-    "saveValue": "[XX]%",
+    "saveValue": "arriba a 40%",
     "saveText": "en costes de lanzamiento frente a contratar por separado a un diseñador, un desarrollador y un integrador.",
     "legendA": "Proveedores separados",
     "legendB": "Con heroo",
@@ -190,7 +190,7 @@
     "plans": [
       {
         "name": "Launch",
-        "price": "[PRECIO]",
+        "price": "de 310€",
         "desc": "Web corporativa con captación de leads",
         "features": [
           "Hasta 5 páginas, diseño a medida",
@@ -202,7 +202,7 @@
       },
       {
         "name": "Commerce",
-        "price": "[PRECIO]",
+        "price": "de 710€",
         "desc": "Tienda online que cobra",
         "features": [
           "Todo lo de Launch",

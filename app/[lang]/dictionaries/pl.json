@@ -50,7 +50,7 @@
     "h2c": "— i",
     "h2d": "sprzedają więcej",
     "saveTitle": "Firmy oszczędzają",
-    "saveValue": "[XX]%",
+    "saveValue": "do 40%",
     "saveText": "na kosztach startu w porównaniu z osobnym zatrudnieniem projektanta, programisty i integratora.",
     "legendA": "Osobni wykonawcy",
     "legendB": "Z heroo",
@@ -190,7 +190,7 @@
     "plans": [
       {
         "name": "Launch",
-        "price": "[CENA]",
+        "price": "od 1360 zł",
         "desc": "Strona firmowa z pozyskiwaniem leadów",
         "features": [
           "Do 5 podstron, indywidualny projekt",
@@ -202,7 +202,7 @@
       },
       {
         "name": "Commerce",
-        "price": "[CENA]",
+        "price": "od 3100 zł",
         "desc": "Sklep internetowy przyjmujący płatności",
         "features": [
           "Wszystko z Launch",

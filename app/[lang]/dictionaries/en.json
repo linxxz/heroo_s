@@ -50,7 +50,7 @@
     "h2c": "— and",
     "h2d": "sell more",
     "saveTitle": "Businesses save",
-    "saveValue": "[XX]%",
+    "saveValue": "up to 40%",
     "saveText": "on launch costs versus hiring a designer, a developer and an integrator separately.",
     "legendA": "Separate vendors",
     "legendB": "With heroo",
@@ -190,7 +190,7 @@
     "plans": [
       {
         "name": "Launch",
-        "price": "[PRICE]",
+        "price": "from 350$",
         "desc": "Business website with lead capture",
         "features": [
           "Up to 5 pages, custom design",
@@ -202,7 +202,7 @@
       },
       {
         "name": "Commerce",
-        "price": "[PRICE]",
+        "price": "from 800$",
         "desc": "Online store that takes payments",
         "features": [
           "Everything in Launch",

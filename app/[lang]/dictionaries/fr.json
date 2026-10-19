@@ -50,7 +50,7 @@
     "h2c": "— et",
     "h2d": "vendent plus",
     "saveTitle": "Les entreprises économisent",
-    "saveValue": "[XX] %",
+    "saveValue": "jusqu'à 40%",
     "saveText": "sur les coûts de lancement par rapport à un designer, un développeur et un intégrateur engagés séparément.",
     "legendA": "Prestataires séparés",
     "legendB": "Avec heroo",
@@ -190,7 +190,7 @@
     "plans": [
       {
         "name": "Launch",
-        "price": "[PRIX]",
+        "price": "depuis 310€",
         "desc": "Site vitrine avec génération de leads",
         "features": [
           "Jusqu'à 5 pages, design sur mesure",
@@ -202,7 +202,7 @@
       },
       {
         "name": "Commerce",
-        "price": "[PRIX]",
+        "price": "depuis 710€",
         "desc": "Boutique en ligne qui encaisse",
         "features": [
           "Tout Launch",
