@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "heroo — turnkey websites with every integration built in",
+    "description": "We design, build and connect your website end to end — CRM, Stripe, crypto payments, hosting and more. 300+ websites launched, client portal for every invoice, 24/7 support.",
+    "loginTitle": "Client login — heroo"
+  },
+  "nav": {
+    "services": "Services",
+    "integrations": "Integrations",
+    "process": "Process",
+    "pricing": "Pricing",
+    "portal": "Client portal",
+    "login": "Client login",
+    "start": "Start your project",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "Turnkey websites · 300+ launched",
+    "h1a": "Turnkey websites,",
+    "h1b": "fully connected",
+    "h1c": "and ready to sell",
+    "sub": "We design, build and connect everything — from CRM to Stripe and crypto payments. Personal recommendations, a client portal for every invoice and 24/7 support.",
+    "cta1": "Start your project",
+    "cta2": "Book a call"
+  },
+  "browser": {
+    "summary": "Order summary",
+    "item": "Starter bundle",
+    "itemMeta": "Qty 1 · Ships in 2 days",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "payment": "Payment",
+    "card": "Card",
+    "crypto": "Crypto",
+    "pay": "Pay $129.00",
+    "secured": "Secured checkout · built & connected by heroo",
+    "crmSync": "CRM sync on",
+    "success": "Payment successful",
+    "sell": "Sell successfully with"
+  },
+  "marquee": {
+    "a": "Services we set up and",
+    "b": "connect for you"
+  },
+  "stats": {
+    "h2a": "With heroo, businesses",
+    "h2b": "save",
+    "h2c": "— and",
+    "h2d": "sell more",
+    "saveTitle": "Businesses save",
+    "saveValue": "[XX]%",
+    "saveText": "on launch costs versus hiring a designer, a developer and an integrator separately.",
+    "legendA": "Separate vendors",
+    "legendB": "With heroo",
+    "happyTitle": "Happy businesses",
+    "happyText": "successful websites launched for clients across Europe and the US.",
+    "supportTitle": "Always-on support",
+    "supportText": "A real person answers every hour of every day — chat, email or a call with your manager.",
+    "liveNow": "Live now",
+    "nextShift": "Next shift",
+    "tiles": [
+      {
+        "v": "300+",
+        "l": "Websites launched"
+      },
+      {
+        "v": "24/7",
+        "l": "Live support"
+      },
+      {
+        "v": "EU + US",
+        "l": "Clients served"
+      },
+      {
+        "v": "1 portal",
+        "l": "For every invoice"
+      }
+    ]
+  },
+  "services": {
+    "h2a": "Not just a website.",
+    "h2b": "Everything it needs to",
+    "h2c": "sell",
+    "h2d": ", connected.",
+    "sub": "We pick the stack for your business personally — then wire it up end to end: CRM, Stripe, crypto payments, hosting, email, analytics and accounting. You get advice, not a template.",
+    "cta": "Get my recommendation",
+    "tools": "Typical tools:",
+    "chips": [
+      {
+        "label": "CRM",
+        "text": "Every form, chat and order lands in your pipeline automatically — no copy-paste.",
+        "tools": "HubSpot · Pipedrive · Zoho"
+      },
+      {
+        "label": "Stripe payments",
+        "text": "Checkout, subscriptions, invoices and Apple / Google Pay — configured and tested.",
+        "tools": "Stripe · PayPal"
+      },
+      {
+        "label": "Crypto payments",
+        "text": "Accept USDC, BTC and ETH with automatic settlement to your wallet or bank.",
+        "tools": "Coinbase Commerce · NOWPayments"
+      },
+      {
+        "label": "eCommerce",
+        "text": "A store with catalog, shipping, taxes and stock — ready to take orders on day one.",
+        "tools": "Shopify · WooCommerce · Squarespace"
+      },
+      {
+        "label": "Hosting",
+        "text": "Fast, secure managed hosting with backups, SSL and monitoring.",
+        "tools": "WP Engine · Kinsta · Cloudways · SiteGround"
+      },
+      {
+        "label": "Email marketing",
+        "text": "Welcome series, abandoned-cart flows and newsletters that run themselves.",
+        "tools": "Constant Contact · Mailchimp"
+      },
+      {
+        "label": "SEO & analytics",
+        "text": "Audits, keyword plan and conversion tracking set up before launch.",
+        "tools": "Semrush · GA4"
+      },
+      {
+        "label": "Accounting",
+        "text": "Payments sync to your books so invoices reconcile themselves.",
+        "tools": "FreshBooks · QuickBooks"
+      }
+    ],
+    "fitTitle": "Personal fit",
+    "fitText": "We recommend tools for your size, market and budget.",
+    "doneTitle": "Done for you",
+    "doneText": "Accounts, keys, webhooks, testing — handled."
+  },
+  "portal": {
+    "kicker": "Client portal",
+    "kickerAccent": "included",
+    "h2a": "Every service you connect —",
+    "h2b": "one place to pay.",
+    "sub": "Whatever package you buy, you get full access to your heroo account: see each integration's status, download receipts and pay invoices for hosting, CRM, email and more — by card or crypto.",
+    "f1": "Card, Apple Pay & Google Pay via Stripe",
+    "f2": "Crypto: USDC, BTC, ETH",
+    "f3": "Live status of every integration",
+    "f4": "24/7 chat with your manager",
+    "cta": "Log in to the portal",
+    "dueMonth": "Due this month",
+    "servicesNext": "3 services · next on Nov 1",
+    "invoices": "Invoices",
+    "pending": "Pending",
+    "paid": "Paid",
+    "payAll": "Pay all",
+    "invoice": "Invoice #1042",
+    "feeIncl": "= $81.00 · network fee incl.",
+    "sent": "I've sent the payment",
+    "confirmed": "Payment confirmed",
+    "isPaid": "Invoice #1042 is paid",
+    "sitesLaunched": "sites launched",
+    "managerOnline": "manager online"
+  },
+  "process": {
+    "kicker": "How it",
+    "kickerAccent": "works",
+    "title": "From first call to first sale",
+    "steps": [
+      {
+        "t": "Consultation",
+        "d": "We learn your business, market and goals — and how you sell today."
+      },
+      {
+        "t": "Personal stack",
+        "d": "We recommend the CRM, payments, hosting and tools that fit you — and explain why."
+      },
+      {
+        "t": "Build & connect",
+        "d": "Design, development and every integration wired up and tested end to end."
+      },
+      {
+        "t": "Launch & grow",
+        "d": "Go live with portal access and 24/7 support. We stay on as your team."
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Packages",
+    "title": "Turnkey, with a fixed price",
+    "sub": "Third-party services you connect are billed at their own rates through your heroo portal.",
+    "popular": "Most chosen",
+    "plans": [
+      {
+        "name": "Launch",
+        "price": "[PRICE]",
+        "desc": "Business website with lead capture",
+        "features": [
+          "Up to 5 pages, custom design",
+          "CRM + email marketing",
+          "Hosting, domain, analytics",
+          "Client portal & 24/7 support"
+        ],
+        "cta": "Choose Launch"
+      },
+      {
+        "name": "Commerce",
+        "price": "[PRICE]",
+        "desc": "Online store that takes payments",
+        "features": [
+          "Everything in Launch",
+          "Shopify or WooCommerce store",
+          "Stripe + crypto checkout",
+          "Accounting sync & SEO setup"
+        ],
+        "cta": "Choose Commerce"
+      },
+      {
+        "name": "Custom",
+        "price": "Let's talk",
+        "desc": "Platforms, portals, complex flows",
+        "features": [
+          "Everything in Commerce",
+          "Custom integrations & APIs",
+          "Multi-language, multi-currency",
+          "Dedicated manager"
+        ],
+        "cta": "Book a call"
+      }
+    ]
+  },
+  "cta": {
+    "h2a": "Be the",
+    "h2c": "of your market.",
+    "sub": "Tell us about your business — we'll reply with a personal recommendation within a day.",
+    "label": "Work email",
+    "placeholder": "you@company.com",
+    "button": "Get started",
+    "subject": "New project request"
+  },
+  "footer": {
+    "about": "Turnkey websites with every integration built in. For businesses in Europe and the US.",
+    "company": "Company",
+    "clients": "Clients",
+    "legal": "Legal",
+    "support": "Support 24/7",
+    "payInvoice": "Pay an invoice",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "disclosure": "Affiliate disclosure"
+  },
+  "login": {
+    "title": "Client login",
+    "sub": "Access your website, integrations and invoices.",
+    "note": "Login details are issued by heroo after purchase — no registration needed.",
+    "login": "Login",
+    "loginPh": "Your login",
+    "password": "Password",
+    "passwordPh": "Your password",
+    "show": "Show password",
+    "hide": "Hide password",
+    "submit": "Log in",
+    "checking": "Checking…",
+    "error": "Incorrect login or password.",
+    "required": "Please enter your login and password.",
+    "forgot": "Forgot your details?",
+    "support": "Contact support 24/7",
+    "back": "Back to site",
+    "secure": "Encrypted connection"
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Let's talk",
+    "sub": "Message us — a real person replies 24/7, usually within minutes.",
+    "telegramHint": "Chat with us on Telegram",
+    "whatsappHint": "Message us on WhatsApp",
+    "email": "Prefer email?",
+    "close": "Close",
+    "online": "Managers online now",
+    "waText": "Hi heroo! I'd like to discuss a website for my business."
+  }
+}

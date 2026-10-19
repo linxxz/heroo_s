@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "heroo — des sites clés en main avec toutes les intégrations",
+    "description": "Nous concevons, développons et connectons votre site de bout en bout : CRM, Stripe, paiements crypto, hébergement et plus. 300+ sites lancés, un portail client pour chaque facture et un support 24/7.",
+    "loginTitle": "Espace client — heroo"
+  },
+  "nav": {
+    "services": "Services",
+    "integrations": "Intégrations",
+    "process": "Processus",
+    "pricing": "Tarifs",
+    "portal": "Espace client",
+    "login": "Espace client",
+    "start": "Lancer mon projet",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "hero": {
+    "badge": "Sites clés en main · 300+ lancés",
+    "h1a": "Des sites clés en main,",
+    "h1b": "entièrement connectés",
+    "h1c": "et prêts à vendre",
+    "sub": "Nous concevons, développons et connectons tout — du CRM à Stripe et aux paiements crypto. Des conseils personnalisés, un portail pour chaque facture et un support 24/7.",
+    "cta1": "Lancer mon projet",
+    "cta2": "Réserver un appel"
+  },
+  "browser": {
+    "summary": "Récapitulatif",
+    "item": "Pack de démarrage",
+    "itemMeta": "Qté 1 · Expédié sous 2 jours",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "payment": "Paiement",
+    "card": "Carte",
+    "crypto": "Crypto",
+    "pay": "Payer 129,00 $",
+    "secured": "Paiement sécurisé · conçu et connecté par heroo",
+    "crmSync": "Synchro CRM active",
+    "success": "Paiement réussi",
+    "sell": "Vendez avec succès avec"
+  },
+  "marquee": {
+    "a": "Les services que nous configurons et",
+    "b": "connectons pour vous"
+  },
+  "stats": {
+    "h2a": "Avec heroo, les entreprises",
+    "h2b": "économisent",
+    "h2c": "— et",
+    "h2d": "vendent plus",
+    "saveTitle": "Les entreprises économisent",
+    "saveValue": "[XX] %",
+    "saveText": "sur les coûts de lancement par rapport à un designer, un développeur et un intégrateur engagés séparément.",
+    "legendA": "Prestataires séparés",
+    "legendB": "Avec heroo",
+    "happyTitle": "Entreprises satisfaites",
+    "happyText": "sites réussis lancés pour des clients en Europe et aux États-Unis.",
+    "supportTitle": "Support toujours disponible",
+    "supportText": "Une vraie personne répond à toute heure, tous les jours — chat, e-mail ou appel avec votre chef de projet.",
+    "liveNow": "En ligne",
+    "nextShift": "Équipe suivante",
+    "tiles": [
+      {
+        "v": "300+",
+        "l": "Sites lancés"
+      },
+      {
+        "v": "24/7",
+        "l": "Support en direct"
+      },
+      {
+        "v": "UE + US",
+        "l": "Clients accompagnés"
+      },
+      {
+        "v": "1 portail",
+        "l": "Pour chaque facture"
+      }
+    ]
+  },
+  "services": {
+    "h2a": "Pas seulement un site.",
+    "h2b": "Tout ce qu'il faut pour",
+    "h2c": "vendre",
+    "h2d": ", connecté.",
+    "sub": "Nous choisissons personnellement les outils adaptés à votre activité, puis nous les connectons de bout en bout : CRM, Stripe, paiements crypto, hébergement, e-mail, analytics et comptabilité. Vous recevez des conseils, pas un modèle.",
+    "cta": "Recevoir ma recommandation",
+    "tools": "Outils courants :",
+    "chips": [
+      {
+        "label": "CRM",
+        "text": "Chaque formulaire, chat et commande arrive automatiquement dans votre pipeline — sans copier-coller.",
+        "tools": "HubSpot · Pipedrive · Zoho"
+      },
+      {
+        "label": "Paiements Stripe",
+        "text": "Checkout, abonnements, factures et Apple / Google Pay — configurés et testés.",
+        "tools": "Stripe · PayPal"
+      },
+      {
+        "label": "Paiements crypto",
+        "text": "Acceptez USDC, BTC et ETH avec règlement automatique vers votre wallet ou votre banque.",
+        "tools": "Coinbase Commerce · NOWPayments"
+      },
+      {
+        "label": "eCommerce",
+        "text": "Une boutique avec catalogue, livraison, taxes et stock — prête à vendre dès le premier jour.",
+        "tools": "Shopify · WooCommerce · Squarespace"
+      },
+      {
+        "label": "Hébergement",
+        "text": "Un hébergement infogéré rapide et sûr, avec sauvegardes, SSL et supervision.",
+        "tools": "WP Engine · Kinsta · Cloudways · SiteGround"
+      },
+      {
+        "label": "E-mail marketing",
+        "text": "Séquences de bienvenue, paniers abandonnés et newsletters qui tournent toutes seules.",
+        "tools": "Constant Contact · Mailchimp"
+      },
+      {
+        "label": "SEO & analytics",
+        "text": "Audit, plan de mots-clés et suivi des conversions prêts avant le lancement.",
+        "tools": "Semrush · GA4"
+      },
+      {
+        "label": "Comptabilité",
+        "text": "Les paiements se synchronisent avec votre comptabilité et les factures se rapprochent seules.",
+        "tools": "FreshBooks · QuickBooks"
+      }
+    ],
+    "fitTitle": "Sur mesure",
+    "fitText": "Nous recommandons des outils adaptés à votre taille, votre marché et votre budget.",
+    "doneTitle": "On s'occupe de tout",
+    "doneText": "Comptes, clés, webhooks, tests — c'est réglé."
+  },
+  "portal": {
+    "kicker": "Espace client",
+    "kickerAccent": "inclus",
+    "h2a": "Tous vos services connectés —",
+    "h2b": "un seul endroit pour payer.",
+    "sub": "Quel que soit votre forfait, vous avez un accès complet à votre compte heroo : statut de chaque intégration, reçus et paiement des factures d'hébergement, CRM, e-mail et plus — par carte ou en crypto.",
+    "f1": "Carte, Apple Pay et Google Pay via Stripe",
+    "f2": "Crypto : USDC, BTC, ETH",
+    "f3": "Statut en direct de chaque intégration",
+    "f4": "Chat 24/7 avec votre chef de projet",
+    "cta": "Accéder à l'espace client",
+    "dueMonth": "À payer ce mois-ci",
+    "servicesNext": "3 services · prochain le 1er nov.",
+    "invoices": "Factures",
+    "pending": "En attente",
+    "paid": "Payée",
+    "payAll": "Tout payer",
+    "invoice": "Facture #1042",
+    "feeIncl": "= 81,00 $ · frais réseau inclus",
+    "sent": "J'ai envoyé le paiement",
+    "confirmed": "Paiement confirmé",
+    "isPaid": "La facture #1042 est payée",
+    "sitesLaunched": "sites lancés",
+    "managerOnline": "chef de projet en ligne"
+  },
+  "process": {
+    "kicker": "Comment ça",
+    "kickerAccent": "marche",
+    "title": "Du premier appel à la première vente",
+    "steps": [
+      {
+        "t": "Consultation",
+        "d": "Nous découvrons votre activité, votre marché, vos objectifs et votre façon de vendre aujourd'hui."
+      },
+      {
+        "t": "Votre stack",
+        "d": "Nous recommandons le CRM, les paiements, l'hébergement et les outils qui vous correspondent — et expliquons pourquoi."
+      },
+      {
+        "t": "Création et intégration",
+        "d": "Design, développement et chaque intégration connectée et testée de bout en bout."
+      },
+      {
+        "t": "Lancement et croissance",
+        "d": "Mise en ligne avec accès à l'espace client et support 24/7. Nous restons votre équipe."
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Forfaits",
+    "title": "Clés en main, à prix fixe",
+    "sub": "Les services tiers que vous connectez sont facturés à leurs propres tarifs via votre espace heroo.",
+    "popular": "Le plus choisi",
+    "plans": [
+      {
+        "name": "Launch",
+        "price": "[PRIX]",
+        "desc": "Site vitrine avec génération de leads",
+        "features": [
+          "Jusqu'à 5 pages, design sur mesure",
+          "CRM + e-mail marketing",
+          "Hébergement, domaine, analytics",
+          "Espace client et support 24/7"
+        ],
+        "cta": "Choisir Launch"
+      },
+      {
+        "name": "Commerce",
+        "price": "[PRIX]",
+        "desc": "Boutique en ligne qui encaisse",
+        "features": [
+          "Tout Launch",
+          "Boutique Shopify ou WooCommerce",
+          "Checkout Stripe + crypto",
+          "Synchro comptable et SEO"
+        ],
+        "cta": "Choisir Commerce"
+      },
+      {
+        "name": "Custom",
+        "price": "Parlons-en",
+        "desc": "Plateformes, portails, parcours complexes",
+        "features": [
+          "Tout Commerce",
+          "Intégrations et API sur mesure",
+          "Multilingue, multidevise",
+          "Chef de projet dédié"
+        ],
+        "cta": "Réserver un appel"
+      }
+    ]
+  },
+  "cta": {
+    "h2a": "Devenez le",
+    "h2c": "de votre marché.",
+    "sub": "Parlez-nous de votre activité — nous vous répondrons avec une recommandation personnalisée sous 24 h.",
+    "label": "E-mail professionnel",
+    "placeholder": "vous@entreprise.fr",
+    "button": "Commencer",
+    "subject": "Nouvelle demande de projet"
+  },
+  "footer": {
+    "about": "Des sites clés en main avec toutes les intégrations. Pour les entreprises d'Europe et des États-Unis.",
+    "company": "Entreprise",
+    "clients": "Clients",
+    "legal": "Mentions",
+    "support": "Support 24/7",
+    "payInvoice": "Payer une facture",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "disclosure": "Divulgation d'affiliation"
+  },
+  "login": {
+    "title": "Espace client",
+    "sub": "Accédez à votre site, vos intégrations et vos factures.",
+    "note": "Vos identifiants sont fournis par heroo après l'achat — aucune inscription nécessaire.",
+    "login": "Identifiant",
+    "loginPh": "Votre identifiant",
+    "password": "Mot de passe",
+    "passwordPh": "Votre mot de passe",
+    "show": "Afficher le mot de passe",
+    "hide": "Masquer le mot de passe",
+    "submit": "Se connecter",
+    "checking": "Vérification…",
+    "error": "Identifiant ou mot de passe incorrect.",
+    "required": "Saisissez votre identifiant et votre mot de passe.",
+    "forgot": "Identifiants oubliés ?",
+    "support": "Contacter le support 24/7",
+    "back": "Retour au site",
+    "secure": "Connexion chiffrée"
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Parlons-en",
+    "sub": "Écrivez-nous — une vraie personne répond 24/7, en général en quelques minutes.",
+    "telegramHint": "Discutez avec nous sur Telegram",
+    "whatsappHint": "Écrivez-nous sur WhatsApp",
+    "email": "Vous préférez l’e-mail ?",
+    "close": "Fermer",
+    "online": "Chefs de projet en ligne",
+    "waText": "Bonjour heroo ! J’aimerais parler d’un site pour mon entreprise."
+  }
+}
