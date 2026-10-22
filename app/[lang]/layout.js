@@ -44,6 +44,7 @@ export default async function RootLayout({ children, params }) {
   return (
     <html lang={lang}>
       <head>
+        <meta name='impact-site-verification' value='73a6a09f-6072-43aa-8f8c-019fbd43faa9'></meta>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link
